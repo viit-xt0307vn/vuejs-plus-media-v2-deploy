@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/_id/index.js": "pages/_id/index.js",
+    "pages/_slug/index.js": "pages/_slug/index.js",
+    "pages/author/_slug/index.js": "pages/author/_slug/index.js",
+    "pages/category/_slug/index.js": "pages/category/_slug/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/page/_slug/index.js": "pages/page/_slug/index.js",
+    "pages/search/index.js": "pages/search/index.js",
+    "pages/tag/_slug/index.js": "pages/tag/_slug/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/_id/index.js": "pages/_id/index.js.map",
+    "pages/_slug/index.js": "pages/_slug/index.js.map",
+    "pages/author/_slug/index.js": "pages/author/_slug/index.js.map",
+    "pages/category/_slug/index.js": "pages/category/_slug/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/page/_slug/index.js": "pages/page/_slug/index.js.map",
+    "pages/search/index.js": "pages/search/index.js.map",
+    "pages/tag/_slug/index.js": "pages/tag/_slug/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

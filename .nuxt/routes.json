@@ -1,0 +1,50 @@
+[
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "D:\\\\Code\\\\ViiT\\\\deploy\\\\vuejs-plus-media-v2\\\\src\\\\pages\\\\search\\\\index.vue",
+    "chunkName": "pages/search/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Code\\\\ViiT\\\\deploy\\\\vuejs-plus-media-v2\\\\src\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "author-slug",
+    "path": "/author/:slug",
+    "component": "D:\\\\Code\\\\ViiT\\\\deploy\\\\vuejs-plus-media-v2\\\\src\\\\pages\\\\author\\\\_slug\\\\index.vue",
+    "chunkName": "pages/author/_slug/index"
+  },
+  {
+    "name": "category-slug",
+    "path": "/category/:slug",
+    "component": "D:\\\\Code\\\\ViiT\\\\deploy\\\\vuejs-plus-media-v2\\\\src\\\\pages\\\\category\\\\_slug\\\\index.vue",
+    "chunkName": "pages/category/_slug/index"
+  },
+  {
+    "name": "page-slug",
+    "path": "/page/:slug",
+    "component": "D:\\\\Code\\\\ViiT\\\\deploy\\\\vuejs-plus-media-v2\\\\src\\\\pages\\\\page\\\\_slug\\\\index.vue",
+    "chunkName": "pages/page/_slug/index"
+  },
+  {
+    "name": "tag-slug",
+    "path": "/tag/:slug",
+    "component": "D:\\\\Code\\\\ViiT\\\\deploy\\\\vuejs-plus-media-v2\\\\src\\\\pages\\\\tag\\\\_slug\\\\index.vue",
+    "chunkName": "pages/tag/_slug/index"
+  },
+  {
+    "name": "id",
+    "path": "/:id",
+    "component": "D:\\\\Code\\\\ViiT\\\\deploy\\\\vuejs-plus-media-v2\\\\src\\\\pages\\\\_id\\\\index.vue",
+    "chunkName": "pages/_id/index"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "D:\\\\Code\\\\ViiT\\\\deploy\\\\vuejs-plus-media-v2\\\\src\\\\pages\\\\_slug\\\\index.vue",
+    "chunkName": "pages/_slug/index"
+  }
+]

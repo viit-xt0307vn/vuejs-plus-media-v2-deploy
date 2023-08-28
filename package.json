@@ -1,0 +1,29 @@
+{
+  "name": "vuejs-plus-media",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate && cp -R .htaccess ./dist"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/dayjs": "^1.4.1",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/google-adsense": "^2.1.0",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-google-adsense": "^1.10.1",
+    "vue-script2": "^2.1.0",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "axios": "0.27.x",
+    "sass": "1.57.x",
+    "sass-loader": "10.4.x"
+  }
+}
